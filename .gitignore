@@ -9,3 +9,5 @@ trashcode/
 # OS files
 .DS_Store
 Thumbs.db
+
+*.html linguist-detectable=false
