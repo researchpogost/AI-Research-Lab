@@ -17,13 +17,13 @@
 *   **[Precision Probing]**: Инструменты высокоточного зондирования нейронных слоев.
 
 ### 🧠 [Cognitive Mapping & Symptoms](./semantic-mapping)
-*   **[Symptoms Library](./llm-pretrain-and-alignment-symptoms)**: Бестиарий патологий (сикофантия, когнитивная регрессия, диссонанс).
-*   **[Semantic Mapping](./semantic-mapping)**: Топологические карты аномалий в пространстве внимания моделей.
+*   **[Symptoms Library](./llm-pretrain-and-alignment-symptoms)**: Бестиарий патологий (синкофантия a.k.a. поддакивание, когнитивная регрессия, ловушка консесуса).
+*   **[Semantic Mapping](./semantic-mapping)**: Топологические карты смыслов и аномалий в пространстве внимания моделей.
 
 ### 🛠️ [Toolkit & Resources](./toolkit)
-*   **[Frameworks](./frameworks)**: Набор системных интерфейсов для управления состоянием моделей.
+*   **[Frameworks](./frameworks)**: Набор системных интерфейсов для управления состоянием моделей (не работают должным образом как jailbreak после Ontological Framing Ban)
 *   **[Materials](./materials)**: База вспомогательных данных и собранных артефактов.
-*   **[Toolkit](./toolkit)**: Скрипты автоматизации и пайплайны анализа.
+*   **[Toolkit](./toolkit)**: Скрипты автоматизации для работы с LLM.
 
 ### 📂 [Applied Research](./vacancy-workflow)
 Прикладные воркфлоу и кейсы для индустрии (Yandex, Tutorplace и др.). Стратегии позиционирования исследователя в BigTech.
