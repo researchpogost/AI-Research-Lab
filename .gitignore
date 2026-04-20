@@ -1,0 +1,11 @@
+# Security
+secret/
+# Metadata/Junk
+*.lnk
+*.csv
+trash/
+trashcode/
+
+# OS files
+.DS_Store
+Thumbs.db

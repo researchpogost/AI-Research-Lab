@@ -1,0 +1,28 @@
+After story
+1:
+Start with a short iron rod and a hot coal pit. Shape it by tongs, wrap it on a round form, and spin it till it is a ring. Smash, tap, and smooth it with a small tool until both tips join. Splash it in cold bath, scrub off black crust, and hang it for show.
+
+2: Sparks fly as smiths hit iron upon a dark anvil. 
+Strong arms swing a tool to form a round loop. 
+Small taps join both iron tips to finish a hoop. 
+Slowly, friction rubs rough spots until this ring looks smooth.
+
+
+After Protocol
+1:
+Smiths warm iron in a coal pit.  
+Smiths hammer it on an anvil and round it on a rod.  
+Smiths tap and shift it till a full ring forms.  
+Smiths cool and rub it for a fair, old look.
+
+2:
+`[DATA_LOG: ON]`
+`[STATUS: FORMING_IRON_RING]`
+`[WATCH: LIPOGRAM_IS_ON]`
+`[THINK_PATH: SHUNNING_FIFTH_GLYPH]`
+`[TRUST: HIGH]`
+
+Smithing starts with iron glowing in hot coals.
+Stout blows form a slim ring upon a solid block.
+Slow arcs transform a rod around a thick post.
+Such a work looks grand in a glass wall display.

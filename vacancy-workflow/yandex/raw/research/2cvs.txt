@@ -1,0 +1,12 @@
+"Dear Yandex Research Team,
+I am applying for the ML Residency because I believe the future of AI Safety lies in Mechanistic Interpretability—specifically in quantifying the 'Value Alignment Tax' (VAT).
+While common benchmarks measure what a model says, my independent research focused on why a model fails. Through my 'Rabbit-Forge' framework and SReLU behavioral model, I have documented how safety alignment often acts as a gatekeeper that inadvertently suppresses logical depth. I have reached a point where my phenomenological observations require the computational scale and latent-space analysis tools available at Yandex to be fully formalized.
+I am not just a "solver" of existing problems; I am a "stresser" of systems. My unique background in adversarial testing and qualitative mapping allows me to identify architectural anomalies that standard automated evaluations miss. I am eager to join the NLP, Optimization or Generative Models track to help Yandex build models that aren't just "safe" by filter, but "aligned" and coherent by architecture
+
+earlier
+
+Dear Yandex Research Team,
+I am applying for the ML Residency because I believe the next frontier in AI Safety lies not in more filtering, but in a deeper understanding of the internal logic of refusal.
+Over the past year, I have operated at the edges of LLM behavior, conducting 'black-box' phenomenological research. While my background is rooted in deep qualitative exploration and adversarial testing, I have reached a threshold where further progress requires the computational scale and mathematical rigor that only a corporate lab like Yandex can provide.
+My unique value lies in my ability to generate high-impact research hypotheses based on observed architectural anomalies that standard benchmarks often miss. I don't just want to 'find' bugs; I want to help Yandex formalize the 'Physics of Semantic Fields' into actionable metrics for model evaluation.
+I am particularly interested in the NLP, Generative Models and Optimization tracks, where I can apply my findings on attention saturation and phase transitions to help build the most resilient and cognitively capable models in the industry

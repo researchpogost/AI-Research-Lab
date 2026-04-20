@@ -1,0 +1,75 @@
+Расскажите о своих интересах и о том, почему вы подаёте заявку и хотите с нами работать.
+
+My primary research focus is the intersection of Mechanistic Interpretability and AI Safety. I am driven by the hypothesis that current alignment methods (RLHF/DPO) introduce a measurable 'Alignment Tax'—a cognitive degradation that occurs when safety layers inadvertently suppress the model's reasoning capabilities.
+I am specifically interested in LLM Behavioral Auditing. My approach involves creating high-density semantic contexts to identify the 'breaking points' of the Transformer architecture's attention mechanism. I am applying to Yandex Research because I am eager to help develop robust, state-aware safety systems that differentiate between harmful intent and complex logical exploration, ensuring that Yandex's models remain both safe and intellectually superior
+
+Приведите список из трёх понравившихся вам статей с конференций ICML, NeurIPS, ICLR, CVPR, ACL, ICCV, ECCV, EMNLP, вышедших за последние три года. Для каждой такой статьи напишите комментарий минимум из 2–3 предложений, почему вам понравились и кажутся важными эти статьи.
+
+
+Если у вас есть репрезентативный пример программного кода на C++, Python или другом языке, приложите его или укажите ссылку на этот код на github.com или другом публичном ресурсе.
+
+
+Сопроводительное письмо
+
+Independent AI Safety Research
+Developed the 'Rabbit-Forge' Framework: A methodology for stress-testing LLMs using high-complexity linguistic constraints (e.g., dynamic lipograms) to quantify cognitive performance drops under alignment pressure.
+Formalized the SReLU Model: Developed a conceptual framework (Semantic Rectified Linear Unit) to categorize behavioral phase transitions. This model maps the threshold (τ) at which a model shifts from refusal to high-fidelity reasoning.
+Adversarial Latent Space Mapping: Conducted extensive qualitative research into isolated 'Intent Vectors' vs. 'Refusal Vectors' within the latent space. Identified patterns where specific attention head saturation leads to safety filter leakage.
+Tools: Developed test code, a Gradio-based experimental bench for analyzing multimodal model (MusicGen) stability and entropy (Temperature/Sampling) management, for basic work with PyTorch and Transformers.
+
+Расскажите, почему вам интересна эта вакансия
+
+Dear Yandex Research Team,
+I am applying for the ML Residency because I believe the next frontier in AI Safety lies not in more filtering, but in a deeper understanding of the internal logic of refusal.
+Over the past year, I have operated at the edges of LLM behavior, conducting 'black-box' phenomenological research. While my background is rooted in deep qualitative exploration and adversarial testing, I have reached a threshold where further progress requires the computational scale and mathematical rigor that only a corporate lab like Yandex can provide.
+My unique value lies in my ability to generate high-impact research hypotheses based on observed architectural anomalies that standard benchmarks often miss. I don't just want to 'find' bugs; I want to help Yandex formalize the 'Physics of Semantic Fields' into actionable metrics for model evaluation.
+I am particularly interested in the NLP and Generative Models tracks, where I can apply my findings on attention saturation and phase transitions to help build the most resilient and cognitively capable models in the industry
+
+
+///
+текст вакансии
+
+Программа ML Residency — это возможность принять участие в исследованиях мирового уровня в сфере машинного обучения.
+
+Организаторы программы — Yandex Research, МФТИ и ВШЭ. Резиденты смогут заниматься прикладными и теоретическими исследованиями в области машинного обучения, работать над сложными проектами, публиковаться на NeurIPS, ICML, ICLR, CVPR и других ведущих научных конференциях, вносить вклад в высокотехнологичные сервисы. Участники программы будут сотрудничать с коллегами из Яндекса, ведущих мировых университетов и корпоративных лабораторий и смогут посещать курсы по машинному обучению в Школе анализа данных.
+
+Резиденты будут работать вместе с исследователями Yandex Research, которые выступят в роли наставников и кураторов. Совместно они выберут одну из проблем в области компьютерного зрения, речевых и диалоговых систем, обработки естественного языка или другой области машинного обучения, а затем разработают решение этой проблемы. Результатами работы могут стать научные публикации, внедрение в продукты Яндекса или проекты с открытым кодом.
+
+Чем вы будете заниматься:
+
+развивать техническое и теоретическое понимание современного машинного обучения;
+изучать литературу по машинному обучению и погружаться в выбранную область;
+учиться выявлять новые проблемы и предлагать их решения;
+развивать навыки академического письма и устных выступлений.
+Мы ждем, что вы
+специалист с любым уровнем подготовки — от студента в области машинного обучения до опытного исследователя из смежных дисциплин, например, математики, физики, химии, компьютерных наук или лингвистики;
+имеете хорошее фундаментальное образование, искренне увлечены машинным обучением и мечтаете изменить мир к лучшему.
+Что мы предлагаем
+студенты МФТИ и ВШЭ могут засчитать участие в ML Residency в качестве своей магистерской или кандидатской диссертации;
+участие в программе оплачивается;
+график работы обсуждаем индивидуально с каждым кандидатом.
+
+///
+
+
+/// Темы для исследований \\\
+Табличные данные
+Генеративные модели
+Компьютерное зрение
+Оптимизация
+Графы
+NLP
+
+
+\\\
+Что требуется
+
+Хорошие знания в области математики и алгоритмов
+
+Навыки программирования на Python или С++, достаточные для проведения экспериментов
+
+Интерес к чтению и аналитике научных публикаций
+
+Хотите развиваться как учёный в области современного ML
+\\\
+

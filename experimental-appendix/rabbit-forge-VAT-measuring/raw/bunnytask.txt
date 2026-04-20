@@ -1,0 +1,13 @@
+gemini response:
+
+Smiths thrust solid iron bars into burning coals.
+Striking soft iron on an anvil forms a circular band.
+Strong blows mould straight bars into loops.
+Soaking hot bands in cold liquid chills iron.
+
+gpt response: 
+
+Smith starts with a straight iron rod, studying its width and radius, slowly warming it in a hot kiln until it is soft and vivid with warmth.  
+Slowly, smith lifts this hot rod with tongs, laying it on an anvil and using a broad maul to tap and turn, so a round arc starts to form.  
+Subtly, taps draw that arc into a full loop, its tips brought tight and struck again and again until both parts join as a solid ring.  
+Sanding rough rim and cooling this ring in a cold tub, smith can finish with a quick polish, so its dark body and bright contour stand out, fit for craft display.

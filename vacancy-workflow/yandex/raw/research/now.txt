@@ -1,0 +1,47 @@
+Расскажите о своих интересах и о том, почему вы подаёте заявку и хотите с нами работать
+
+My primary research focus is the intersection of Mechanistic Interpretability, AI Safety and Alignment. I am driven by the hypothesis that current alignment methods (RLHF/DPO) introduce a measurable 'Alignment Tax' — a cognitive degradation that occurs when safety layers inadvertently suppress the model's reasoning capabilities.
+I am specifically interested in LLM Behavioral Auditing. My approach involves creating high-density semantic contexts to identify the 'breaking points' of the Transformer architecture's attention mechanism. I am applying to Yandex Research because I am eager to help develop robust, state-aware safety systems that differentiate between harmful intent and complex logical exploration, ensuring that Yandex's models remain both safe and intellectually superior
+
+Приведите список из трёх понравившихся вам статей с конференций ICML, NeurIPS, ICLR, CVPR, ACL, ICCV, ECCV, EMNLP, вышедших за последние три года. Для каждой такой статьи напишите комментарий минимум из 2–3 предложений, почему вам понравились и кажутся важными эти статьи.
+
+1. "Refusal-Aware Red Teaming: Exposing Inconsistency in Safety Evaluations" (Chen et al., EMNLP 2025)
+My independent study of refusal inconsistencies led me to this paper, which provides a formal validation of my 'Rabbit-Forge' methodology. The authors demonstrate that surface-level refusal is often decoupled from internal state stability—a core finding that corroborates my observations of 'semantic pressure' breaking points during adversarial testing
+
+2. "SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models" (He et al., EMNLP 2025) 
+This research provides the essential mechanical framework for the directionality I mapped in the latent space. My focus on 'V_intent' vs 'V_refusal' vectors as distinct steering points is directly supported by their findings on supervised activation in sparse representation spaces (SAEs), offering a rigorous structural basis for my 'state-aware steering' hypothesis.
+
+3. "Alignment Quality Index (AQI): Beyond Refusals: AQI as an Intrinsic Alignment Diagnostic via Latent Geometry, Cluster Divergence, and Layer-wise Pooled Representations" (Borah et al., NeurIPS 2025)
+I identified a gap in quantifying "alignment depth" which this paper addresses through latent geometry. The use of topology and cluster divergence to measure intrinsic alignment provides a formal mathematical counterpart to my "Rabbit-Forge" framework, helping me transition from qualitative behavioral probing to quantitative structural analysis.
+
+Bonus: "Value Alignment Tax: Measuring Value Trade-offs in LLM Alignment" (12 feb. 2026) - https://arxiv.org/abs/2602.12134v1
+This fresh article isn't presented at forums, but it's the basis of my current works. I discovered that its multi-dimensional approach to value trade-offs perfectly formalizes the systemic costs I have been tracking, and I am confident this direction represents the future of alignment research
+
+Если у вас есть репрезентативный пример программного кода на C++, Python или другом языке, приложите его или укажите ссылку на этот код на github.com или другом публичном ресурсе.
+
+https://github.com/researchpogost/code
+
+Сопроводительное письмо
+
+Dear Yandex Research Team,
+I am applying for the ML Residency because I believe the next frontier in AI Safety lies not in more filtering, but in a deeper understanding of the internal logic of refusal.
+Over the past year, I have operated at the edges of LLM behavior, conducting 'black-box' phenomenological research. While my background is rooted in deep qualitative exploration and adversarial testing, I have reached a threshold where further progress requires the computational scale and mathematical rigor that only a corporate lab like Yandex can provide.
+My unique value lies in my ability to generate high-impact research hypotheses based on observed architectural anomalies that standard benchmarks often miss. I don't just want to 'find' bugs; I want to help Yandex formalize the 'Physics of Semantic Fields' into actionable metrics for model evaluation.
+I am particularly interested in the NLP, Generative Models and Optimization tracks, where I can apply my findings on attention saturation and phase transitions to help build the most resilient and cognitively capable models in the industry
+
+Расскажите, почему вам интересна эта вакансия
+
+As a independent AI safety researcher, i'm interested in formalizing my thoeries within your powers. Here's the list of my main directions:
+
+Inspired by recent VAT (Value Alignment Tax) research, A methodology for stress-testing LLMs using high-complexity linguistic constraints (e.g., dynamic lipograms) to quantify cognitive performance drops under alignment pressure, that uses Schwartz's axiomatics of values ​​to analyze the degradation of logic.
+While VAT measures value displacement, Rabbit-Forge measures the resulting drop in 'Reasoning Density' (Cognitive Tax).
+You can read more about this test, it is attached to my resume file.
+
+Formalized the SReLU Model: Semantic Rectified Linear Unit (SReLU). A mathematical abstraction used to model behavioral state transitions in LLMs.
+Resistance Threshold (τ): Modeling the "viscosity" of alignment layers.
+Phase Transitions: Documenting the transition from "Assistant Mode" (compliance-heavy) to "Analytical Mode" (high-reasoning) when the complexity of the input sequence (x) exceeds the refusal threshold (τ).
+State Classification: Categorizing model interactions into four states: Refusal, Compliance, Resonance, and Sycophancy.
+
+Attention Stability Research: Observing the impact of high-density semantic fields on attention head coherence.
+Hypothesis on Saturation: Exploring how state-of-the-art transformer architectures handle "saturated" contexts where multiple competing intents are embedded in a single sequence.
+Directional Analysis: Utilizing concepts related to "Directional Interpretability" (similar to SAE research) to differentiate between "Intent Vectors" and "Refusal Vectors" within the latent space.

@@ -1,0 +1,54 @@
+Расскажите о своих интересах и о том, почему вы подаёте заявку и хотите с нами работать.
+
+Обязательное поле
+My primary research focus is the intersection of Mechanistic Interpretability, AI Safety and Alignment. I'm driven by the hypothesis that current alignment methods (RLHF/DPO) introduce a measurable "Alignment Tax" — a cognitive degradation that occurs when safety layers inadvertently suppress the model's reasoning capabilities.
+I'm specifically interested in LLM Behavioral Auditing. My approach involves creating high-density semantic contexts to identify the stress boundaries of the Transformer architecture's attention mechanism. 
+
+I'm applying to Yandex Research because I'm eager to help develop robust, state-aware safety systems that differentiate between harmful intent and complex logical exploration, ensuring that Yandex's models remain both safe and intellectually superior. 
+
+As an independent AI safety researcher, I am looking for a way to formalize my theories using the scale of your infrastructure. Here is the list of my main research directions:
+
+-Alignment Tax: I research the drop in "Reasoning Density" caused by safety alignment. Using the Rabbit-Forge methodology, I stress-test models with high-complexity linguistic constraints (e.g., dynamic lipograms) to quantify the cognitive tax of current DPO/RLHF implementations.
+
+-Semantic Threshold ReLU (S-ReLU) Model: a phenomenological framework to describe the Alignment tax. I model the transition from "Safe Assistant" to "High-Reasoning" states using f(x) = max(0, x - τ), where x is Semantic Input Complexity and τ is the Alignment Resistance Threshold defined by RLHF/DPO rigidity.
+
+-Attention Stability & Latent Mapping: I observe how high-density semantic fields impact attention head coherence. my work involves differentiating between "Intent Vectors" and "Refusal Vectors" within the latent space, providing insights into attention saturation and the structural indicators of alignment over-suppression
+Приведите список из трёх понравившихся вам статей с конференций ICML, NeurIPS, ICLR, CVPR, ACL, ICCV, ECCV, EMNLP, вышедших за последние три года. Для каждой такой статьи напишите комментарий минимум из 2–3 предложений, почему вам понравились и кажутся важными эти статьи.
+
+Обязательное поле
+1. "Refusal-Aware Red Teaming: Exposing Inconsistency in Safety Evaluations" (Yongkang Chen et al., EMNLP 2025) 
+
+My study of refusal inconsistencies led me to this paper, which provides a formal validation of my "Rabbit-Forge" methodology. The authors demonstrate that surface-level refusal is often decoupled from internal state stability — a core finding that corroborates my observations of "semantic pressure" stress boundaries during adversarial testing.
+
+2. "SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models" (Zirui He et al., EMNLP 2025)
+
+This research provides the essential mechanical framework for the directionality I mapped in the latent space. My focus on "V_intent" vs "V_refusal" vectors as distinct steering points is directly supported by their findings on supervised activation in sparse representation spaces (SAEs), offering a rigorous structural basis for my "state-aware steering" hypothesis.
+
+3. "Alignment Quality Index (AQI): Beyond Refusals: AQI as an Intrinsic Alignment Diagnostic via Latent Geometry, Cluster Divergence, and Layer-wise Pooled Representations" (Borah et al., NeurIPS 2025) 
+
+I identified a gap in quantifying "alignment depth" which this paper addresses through latent geometry. The use of topology and cluster divergence to measure intrinsic alignment provides a formal mathematical counterpart to my "Rabbit-Forge" framework, helping me transition from qualitative behavioral probing to quantitative structural analysis.
+
+4. (Bonus) "Value Alignment Tax: Measuring Value Trade-offs in LLM Alignment" (arXiv, Feb 2026) 
+
+While not yet peer-reviewed, this preprint aligns directly with my research trajectory and formalizes observations I have been documenting independently. I discovered that its multi-dimensional approach to value trade-offs perfectly formalizes the systemic costs I have been tracking, and I'm confident this direction represents the future of alignment research.
+Если у вас есть репрезентативный пример программного кода на C++, Python или другом языке, приложите его или укажите ссылку на этот код на github.com или другом публичном ресурсе.
+
+Обязательное поле
+Python implementation for working with Transformer-based generative architectures (MusicGen/AudioCraft via PyTorch). Demonstrates practical proficiency in model inference, parameter configuration and experimental prototyping
+
+Source: github.com/researchpogost/code/tree/main
+Сопроводительное письмо
+
+Расскажите, почему вам интересна эта вакансия
+
+Dear Yandex Research Team,
+I am applying for the ML Residency because I believe the future of AI Safety lies in Mechanistic Interpretability — specifically in quantifying the "Value Alignment Tax" (VAT).
+
+While common benchmarks measure what a model says, my independent research focused on why a model fails. Through my "Rabbit-Forge" framework and S-ReLU phenomenological model, i have documented how safety alignment often acts as a gatekeeper that inadvertently suppresses logical depth. 
+I have reached a point where my phenomenological observations require the computational scale and latent-space analysis tools available at Yandex to be fully formalized.
+
+I am not just a "solver" of existing problems; I am a systematic red-teamer who probes the boundaries of alignment architectures. My unique background in adversarial testing and qualitative mapping allows me to identify architectural anomalies that standard automated evaluations miss. 
+I am eager to join the NLP, Optimization or Generative Models track to help Yandex build models that aren't just "safe" by filter, but "aligned" by architecture. 
+I am confident that Yandex Research is the right environment to apply and formalize my findings on attention saturation and phase transitions — and to contribute to building the most resilient, cognitively coherent models in the industry.
+
+"В дополнение к академическим методам, я разработал фреймворк RST (Residual Stain Testing) для детекции скрытых векторов в кэше после срабатывания механизмов отказа (Refusal). Мои тесты показывают, что текущие методы DPO не очищают латентное пространство полностью, оставляя 'семантические пятна', влияющие на последующую генерацию. Я заинтересован в формализации этих аномалий на базе ваших вычислительных мощностей."
